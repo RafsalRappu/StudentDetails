@@ -1,0 +1,10 @@
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\bin\Debug\StudentDetails.exe.config
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\bin\Debug\StudentDetails.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\bin\Debug\StudentDetails.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csprojAssemblyReference.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.Form1.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.Properties.Resources.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.GenerateResource.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentDetails\StudentDetails\obj\Debug\StudentDetails.pdb
